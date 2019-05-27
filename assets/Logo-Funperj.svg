@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="222.115" height="55.745" viewBox="0 0 222.115 55.745">
+  <g id="Funperj-2" transform="translate(-78.162 -93.157)">
+    <g id="Grupo_1" data-name="Grupo 1" transform="translate(78.162 93.157)">
+      <path id="Caminho_1" data-name="Caminho 1" d="M91.076,136.656a23.235,23.235,0,0,1,2.179-9.843c-.349.03-.7.054-1.056.054a12.493,12.493,0,0,1-11.974-9A28.075,28.075,0,0,0,101.479,156.1,23.383,23.383,0,0,1,91.076,136.656Z" transform="translate(-78.162 -100.353)" fill="#ff8000"/>
+      <path id="Caminho_2" data-name="Caminho 2" d="M113.435,93.157A27.99,27.99,0,0,0,102.87,95.22a12.493,12.493,0,0,1,9,11.974c0,.357-.024.707-.054,1.056a23.353,23.353,0,0,1,29.284,8.223A28.079,28.079,0,0,0,113.435,93.157Z" transform="translate(-85.358 -93.157)" fill="#ff8000"/>
+    </g>
+    <text id="FUNPERJ" transform="translate(150.277 133.624)" font-size="32" font-family="LiberationSans-Bold, Liberation Sans" font-weight="700"><tspan x="0" y="0">FUNPERJ</tspan></text>
+    <circle id="Elipse_1" data-name="Elipse 1" cx="18.428" cy="18.428" r="18.428" transform="translate(96.038 111.033)" fill="#13007c"/>
+    <path id="Caminho_3" data-name="Caminho 3" d="M93.877,118.829a9.957,9.957,0,1,1,9.957-9.957A9.969,9.969,0,0,1,93.877,118.829Z" transform="translate(-1.677 -1.677)" fill="#01a0c6"/>
+  </g>
+</svg>
