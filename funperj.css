@@ -3,6 +3,49 @@
 	padding: 0;
 	text-decoration: none;
 }
+.adviceadmbox{
+	height: 90vh;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	background-color: #FFF;
+}
+.adviceadmbox__title{
+	font-family: 30px;
+	font-family: 'Muli', sans-serif;
+	color: #13007C;
+	padding-bottom: 35px;
+}
+.adviceadmbox__boxpicture{
+	height: 380px;
+	padding: 25px;
+}
+.adviceadmbox__picture{
+	width: 350px;
+	height: 299px;
+	box-shadow: -10px 10px #13007C;
+}
+.adviceadmbox__text{
+	width: 9rem;
+	height: 19rem;
+	padding-top: 80px;
+	line-height: 1.7rem;
+}
+.adviceadmbox__paragraph{
+	font-size: 10px;
+	font-family: 'Muli', sans-serif;
+	color: #AFAFAF;
+}
+.adviceadmbox__subtitle{
+	font-size: 13px;
+	font-family: 'Muli', sans-serif;
+}
+.adviceadmbox__namecarmen{
+	font-size: 13px;
+	font-family: 'Muli', sans-serif;
+	color: #13007C;
+}
+
 .thematicbox{
 	display: flex;
 	justify-content: space-around;
