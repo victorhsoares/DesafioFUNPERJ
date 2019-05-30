@@ -67,6 +67,49 @@
 .thematicbox__picute{
 	width: 24vw; 
 }
+.publicationbox{
+	
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	padding: 30px;
+	background-color: #fff;
+
+}
+.publicationbox__article{
+	width: 50%;
+	text-align: center;
+
+}
+.publicationbox__title{
+	font-size: 28px;
+	font-family: 'Muli', sans-serif;
+	color: #13007C;
+	padding-bottom: 20px;
+}
+.publicationbox__picture{
+	width: 600px;
+	height: 600px;
+	padding-top: 20px;
+}
+.publicationbox__text{
+	width: 450px;
+	line-height: 1.5;
+}
+.publicationbox__hometext, .publicationbox__hometexttwo, .publicationbox__hometexthree{
+	border-left: 4px dotted #FF8000;
+	margin-bottom: 30px;
+
+}
+.publicationbox__subtitle{
+	font-size: 22px;
+	font-family: 'Muli', sans-serif;
+	margin-left: 20px;
+}
+.publicationbox__paragraph{
+	font-family: 'Muli', sans-serif;
+	margin-left: 20px;
+}
 .sponsorbox{
 	display: flex;
 	justify-content: space-around;
